@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19 22:47",
+  "updated": "2026-09-04 13:33",
   "source": "天天基金/易方达官网（公开数据）",
   "funds": [
     {
@@ -10,7 +10,7 @@
       "end": "--",
       "type": "混合型",
       "fund_name_em": "易方达信息产业混合A",
-      "quarters": 38,
+      "quarters": 39,
       "dir": "references/fund_data/001513_易方达信息产业混合"
     },
     {
@@ -21,7 +21,7 @@
       "end": "--",
       "type": "股票型",
       "fund_name_em": "易方达信息行业精选股票A",
-      "quarters": 22,
+      "quarters": 23,
       "dir": "references/fund_data/010013_易方达信息行业精选股票"
     },
     {
@@ -32,7 +32,7 @@
       "end": "--",
       "type": "QDII",
       "fund_name_em": "易方达全球成长精选混合(QDII)人民币A",
-      "quarters": 17,
+      "quarters": 18,
       "dir": "references/fund_data/012920_易方达全球成长精选混合（QDII）"
     },
     {
@@ -43,7 +43,7 @@
       "end": "--",
       "type": "混合型",
       "fund_name_em": "易方达科创板两年定开混合",
-      "quarters": 23,
+      "quarters": 24,
       "dir": "references/fund_data/506002_易方达科创板两年定开混合"
     },
     {
